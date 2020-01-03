@@ -6,6 +6,7 @@ public class Test1 {
 		int a = 2;
 		String b = "asc";
 		String c = "zxc";
+		int d = 3;
 
 	}
 }
