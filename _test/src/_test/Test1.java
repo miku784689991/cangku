@@ -8,6 +8,7 @@ public class Test1 {
 		String c = "zxc";
 		int d = 3;
 		int e = 4;
+		System.out.println(a);
 
 	}
 }
