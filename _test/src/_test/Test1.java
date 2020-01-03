@@ -7,6 +7,7 @@ public class Test1 {
 		String b = "asc";
 		String c = "zxc";
 		int d = 3;
+		int e = 4;
 
 	}
 }
